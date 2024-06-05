@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "border-radius": "25px",
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="Breaking-Bad.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Liam Vermette
+      </div>
+      <p
+        className="card-text"
+      >
+        It's me Liam, and I NEVER get tired of filler text!
+      </p>
+    </div>
+  </div>
+</div>
+`;
